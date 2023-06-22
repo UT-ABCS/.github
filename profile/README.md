@@ -1,9 +1,7 @@
 ## Hello! 👋
 Welcome to the Association of Black Computer Scientists (ABCS) GitHub page!
 
-Our mission is to provide mentorship, networking, and growth opportunities to Black students pursuing a career in tech.
-
-The organization works to build and empower members of Texas Computer Science and the broader Black community to pursue technology related education and careers. We hope to inspire and equip the next diverse generation of thoughtful technologists!
+Our mission is to provide mentorship, networking, and growth opportunities to Black students pursuing a career in tech. The organization works to build and empower members of Texas Computer Science and the broader Black community to pursue technology related education and careers. We hope to inspire and equip the next diverse generation of thoughtful technologists!
 
 <!--
 
