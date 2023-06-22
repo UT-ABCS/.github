@@ -1,4 +1,4 @@
-# .github
+## Hello! 👋
 Welcome to the Association of Black Computer Scientists (ABCS) GitHub page!
 
 Our mission is to provide mentorship, networking, and growth opportunities to Black students pursuing a career in tech.
