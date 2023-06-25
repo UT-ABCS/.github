@@ -1,3 +1,5 @@
+![image](https://github.com/UT-ABCS/.github/assets/93444097/f4c3dbba-1c1f-47c5-8573-cf2f95d08227)
+
 ## Hello! 👋
 Welcome to the Association of Black Computer Scientists (ABCS) GitHub page!
 
